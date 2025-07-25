@@ -1,0 +1,1 @@
+# Adana-Sikayet-Yonetim-Sistemi-Veri-Bilimi-Yaklasimi
