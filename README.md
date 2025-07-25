@@ -53,3 +53,10 @@ Yukarıdaki modeller kullanılarak şikayetlerin çözüm durumları tahmin edil
    git clone https://github.com/LenaKeskin/Adana-Sikayet-Yonetim-Sistemi-Veri-Bilimi-Yaklasimi
 .git
    cd projeAdi
+## 🌐 Web Arayüzü
+
+Bu projede, Flask ile geliştirilen bir API'nin yanında basit bir web arayüzü de bulunmaktadır. Arayüz, `localhost:5000` üzerinde çalışır ve yalnızca yerel makinede test edilebilir.
+
+📌 Geliştirme ortamında çalıştırmak için:
+1. `python api_app.py` komutuyla uygulamayı başlatın.
+2. Tarayıcınızdan `http://127.0.0.1:5000` adresine gidin.
